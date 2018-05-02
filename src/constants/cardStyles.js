@@ -1,0 +1,22 @@
+export const CARD_STYLES = [
+  {bg: "#673ab7", color: "#ffd600"},
+  {bg: "#009688", color: "#e53935"},
+  {bg: "#0d47a1", color: "#d50000"},
+  {bg: "#4caf50", color: "#5e35b1"},
+  {bg: "#ffeb3b", color: "#558b2f"},
+  {bg: "#b2ebf2", color: "#ffca28"},
+  {bg: "#e0e0e0", color: "#f06292"},
+  {bg: "#80cbc4", color: "#0d47a1"},
+  {bg: "#ef5350", color: "#ffa000"},
+  {bg: "#689f38", color: "#ffab00"},
+  {bg: "#c51162", color: "#1e88e5"},
+  {bg: "#64dd17", color: "#d500f9"},
+  {bg: "#ffff00", color: "#d500f9"},
+  {bg: "#0d47a1", color: "#f57c00"},
+  {bg: "#d50000", color: "#4caf50"},
+  {bg: "#a1887f", color: "#f9a825"},
+  {bg: "#9e9e9e", color: "#673ab7"},
+  {bg: "#b71c1c", color: "#eeff41"},
+  {bg: "#78909c", color: "#d84315"},
+  {bg: "#00bcd4", color: "#c2185b"}
+];
